@@ -1,18 +1,24 @@
 {
-	"author" : "Nikos Paschalis",
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"engines": {
-		"node": "8.11.2"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
-}
+	"author": "Nikos Paschalis",
+	  "name": "fcc-learn-npm-package-json",
+	"version": "1.0.1",
+	"description": "This should be enough",
+	"keywords": ["freecodecamp","managing npm","solutions"],
+	"license": "MIT",
+	  "dependencies": {
+		  "express": "^4.14.0",
+	  "moment": "^2.10.2"
+	  },
+	  "main": "server.js",
+	  "scripts": {
+		  "start": "node server.js"
+	  },
+	  "engines": {
+		  "node": "8.11.2"
+	  },
+	  "repository": {
+		  "type": "git",
+		  "url": "https://idontknow/todo.git"
+	  }
+  }
+  
